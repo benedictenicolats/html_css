@@ -2,6 +2,19 @@ p {
   color: red;
 }
 
+h1 {
+  font-size: 70px;
+}
+
+table {
+  background-color: red;
+}
+
+input {
+  background-color: rgb(42, 165, 144);
+  color: rgba(195, 255, 0, 0.39);
+}
+
 div {
   height: 400px;
 }
