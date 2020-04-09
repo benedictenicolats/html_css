@@ -1,0 +1,16 @@
+p {
+  color: red;
+}
+
+div {
+  height: 400px;
+}
+
+#monid {
+  background-color: #bada55;
+  width: 100%;
+}
+
+.maclass {
+  border: 1px red solid;
+}
