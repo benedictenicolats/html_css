@@ -70,9 +70,9 @@
   - Paramètre
     - value: valeur de l'option
 - Example:
-  ```
-    <select name="ville">
-      <option value="1">Reims</option>
-      <option value="2">Paris</option>
-    </select>
+  ```html
+  <select name="ville">
+    <option value="1">Reims</option>
+    <option value="2">Paris</option>
+  </select>
   ```

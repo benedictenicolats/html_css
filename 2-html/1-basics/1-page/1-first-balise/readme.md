@@ -1,4 +1,4 @@
-# La page HTLM
+# La page HTML
 
 - L'extension d'un fichier HTML est .html
 - Le code est contenu dans une balise html
